@@ -1,3 +1,8 @@
 @import 'base/base';
 @import 'base/mixin';
 @import 'base/variables';
+.container{
+    width: 300px;
+    height: 3000px;
+    background: linear-gradient(to top, rgb(199, 94, 94),rgb(116, 223, 116));
+}
